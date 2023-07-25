@@ -1,0 +1,13 @@
+h1{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+}
+h2{text-align: center;}
+p.ident{
+    text-align: justify;
+    text-indent: 50px;
+}
+p.imag{
+    text-align: center;
+}
